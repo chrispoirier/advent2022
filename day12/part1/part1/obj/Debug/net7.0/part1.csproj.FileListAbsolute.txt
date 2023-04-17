@@ -1,0 +1,17 @@
+P:\Documents\advent2022\day12\part1\part1\bin\Debug\net7.0\part1.exe
+P:\Documents\advent2022\day12\part1\part1\bin\Debug\net7.0\part1.deps.json
+P:\Documents\advent2022\day12\part1\part1\bin\Debug\net7.0\part1.runtimeconfig.json
+P:\Documents\advent2022\day12\part1\part1\bin\Debug\net7.0\part1.dll
+P:\Documents\advent2022\day12\part1\part1\bin\Debug\net7.0\part1.pdb
+P:\Documents\advent2022\day12\part1\part1\obj\Debug\net7.0\part1.csproj.AssemblyReference.cache
+P:\Documents\advent2022\day12\part1\part1\obj\Debug\net7.0\part1.GeneratedMSBuildEditorConfig.editorconfig
+P:\Documents\advent2022\day12\part1\part1\obj\Debug\net7.0\part1.AssemblyInfoInputs.cache
+P:\Documents\advent2022\day12\part1\part1\obj\Debug\net7.0\part1.AssemblyInfo.cs
+P:\Documents\advent2022\day12\part1\part1\obj\Debug\net7.0\part1.csproj.CoreCompileInputs.cache
+P:\Documents\advent2022\day12\part1\part1\obj\Debug\net7.0\part1.dll
+P:\Documents\advent2022\day12\part1\part1\obj\Debug\net7.0\refint\part1.dll
+P:\Documents\advent2022\day12\part1\part1\obj\Debug\net7.0\part1.pdb
+P:\Documents\advent2022\day12\part1\part1\obj\Debug\net7.0\part1.genruntimeconfig.cache
+P:\Documents\advent2022\day12\part1\part1\obj\Debug\net7.0\ref\part1.dll
+P:\Documents\advent2022\day12\part1\part1\bin\Debug\net7.0\input.txt
+P:\Documents\advent2022\day12\part1\part1\bin\Debug\net7.0\test.txt
